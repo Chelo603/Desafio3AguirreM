@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+body {background: rgb(76,79,171);
+    background: linear-gradient(159deg, rgba(76,79,171,1) 0%, rgba(178,180,194,0.908000700280112) 37%, rgba(18,18,200,0.22172619047619047) 45%, rgba(54,185,212,1) 100%);
+}
